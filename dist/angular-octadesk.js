@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('oktadesk', [])
+angular.module('octadesk', [])
   .run(['$rootScope', 'OctaChatService', function($rootScope, OctaChatService) {
     $rootScope.octaChatReady = false;
     window.addEventListener("onOctaChatReady", function(e) {
