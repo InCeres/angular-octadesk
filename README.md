@@ -29,4 +29,3 @@ Para realizar o `auto-login`:
 Se você está usando a opção `showButton=false` na url para o script do OctaChat, vai precisar dar um `toggle` no chat usando:
 
     OctaChatService.toggle();
-
