@@ -1,0 +1,20 @@
+{
+    "name": "AngularJS Octadesk",
+    "version": "0.0.1",
+    "main": "dist/angular-octadesk.js",
+    "ignore": [
+        "src",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "angular": ">=1.7.0"
+    }
+}
